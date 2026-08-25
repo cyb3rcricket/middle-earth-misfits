@@ -23,6 +23,22 @@ document.addEventListener('DOMContentLoaded', () => {
     const charGenderEl = document.getElementById('charGender');
     const referenceLink = document.getElementById('referenceLink');
 
+    function populateRealmDropdown(charactersData) {
+        if (!realmSelect || !Array.isArray(charactersData)) return;
+
+        realmSelect.innerHTML = '<option value="" selected>Anywhere the wind blows...</option>';
+
+        const realms = Array.from(new Set(charactersData.map((char) => char.realm).filter(Boolean)));
+        realms.sort((a, b) => a.localeCompare(b));
+
+        realms.forEach((realm) => {
+            const option = document.createElement('option');
+            option.value = realm;
+            option.textContent = realm;
+            realmSelect.appendChild(option);
+        });
+    }
+
     async function loadCharacters() {
         try {
             const response = await fetch(DATA_URL);
@@ -30,6 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 throw new Error(`Failed to load lore database (${response.status})`);
             }
             charactersData = await response.json();
+            populateRealmDropdown(charactersData);
         } catch (err) {
             console.error('Error loading character dataset:', err);
             showError('Unable to open the lore archives. Please ensure characters.json is available.', 'Archive Error');
@@ -57,7 +74,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const matches = charactersData.filter((char) => {
             const matchRace = !selectedRace || (char.race && char.race.toLowerCase() === selectedRace);
-            const matchRealm = !selectedRealm || (char.realm && char.realm.toLowerCase().includes(selectedRealm));
+            const matchRealm = !selectedRealm || (char.realm && char.realm.toLowerCase() === selectedRealm);
             const matchGender = !selectedGender || (char.gender && char.gender.toLowerCase() === selectedGender);
             return matchRace && matchRealm && matchGender;
         });

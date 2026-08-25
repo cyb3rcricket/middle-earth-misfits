@@ -3,7 +3,7 @@
     "name": "Galdor of the Havens",
     "race": "Elf",
     "gender": "Male",
-    "realm": "Rivendell",
+    "realm": "Grey Havens",
     "obscurity": 7,
     "referenceUrl": "https://tolkiengateway.net/wiki/Galdor_of_the_Havens"
   },
@@ -67,7 +67,7 @@
     "name": "Voronwë",
     "race": "Elf",
     "gender": "Male",
-    "realm": "Valinor",
+    "realm": "Gondolin",
     "obscurity": 7,
     "referenceUrl": "https://tolkiengateway.net/wiki/Voronw%C3%AB"
   },
@@ -75,7 +75,7 @@
     "name": "Idril Celebrindal",
     "race": "Elf",
     "gender": "Female",
-    "realm": "Valinor",
+    "realm": "Gondolin",
     "obscurity": 5,
     "referenceUrl": "https://tolkiengateway.net/wiki/Idril"
   },
@@ -115,7 +115,7 @@
     "name": "Ghân-buri-Ghân",
     "race": "Human",
     "gender": "Male",
-    "realm": "Gondor",
+    "realm": "Drúadan Forest",
     "obscurity": 6,
     "referenceUrl": "https://tolkiengateway.net/wiki/Gh%C3%A2n-buri-Gh%C3%A2n"
   },
@@ -187,7 +187,7 @@
     "name": "Narvi",
     "race": "Dwarf",
     "gender": "Male",
-    "realm": "Erebor",
+    "realm": "Khazad-dûm",
     "obscurity": 7,
     "referenceUrl": "https://tolkiengateway.net/wiki/Narvi"
   },
@@ -195,7 +195,7 @@
     "name": "Telchar",
     "race": "Dwarf",
     "gender": "Male",
-    "realm": "Erebor",
+    "realm": "Nogrod",
     "obscurity": 7,
     "referenceUrl": "https://tolkiengateway.net/wiki/Telchar"
   },
@@ -203,7 +203,7 @@
     "name": "Farmer Maggot",
     "race": "Hobbit",
     "gender": "Male",
-    "realm": "Shire",
+    "realm": "The Shire",
     "obscurity": 5,
     "referenceUrl": "https://tolkiengateway.net/wiki/Farmer_Maggot"
   },
@@ -211,7 +211,7 @@
     "name": "Fredegar Bolger",
     "race": "Hobbit",
     "gender": "Male",
-    "realm": "Shire",
+    "realm": "The Shire",
     "obscurity": 6,
     "referenceUrl": "https://tolkiengateway.net/wiki/Fredegar_Bolger"
   },
@@ -219,7 +219,7 @@
     "name": "Folco Boffin",
     "race": "Hobbit",
     "gender": "Male",
-    "realm": "Shire",
+    "realm": "The Shire",
     "obscurity": 8,
     "referenceUrl": "https://tolkiengateway.net/wiki/Folco_Boffin"
   },
@@ -227,7 +227,7 @@
     "name": "Lobelia Sackville-Baggins",
     "race": "Hobbit",
     "gender": "Female",
-    "realm": "Shire",
+    "realm": "The Shire",
     "obscurity": 5,
     "referenceUrl": "https://tolkiengateway.net/wiki/Lobelia_Sackville-Baggins"
   },
@@ -235,7 +235,7 @@
     "name": "Belladonna Took",
     "race": "Hobbit",
     "gender": "Female",
-    "realm": "Shire",
+    "realm": "The Shire",
     "obscurity": 6,
     "referenceUrl": "https://tolkiengateway.net/wiki/Belladonna_Took"
   },
@@ -243,7 +243,7 @@
     "name": "Elanor Gardner",
     "race": "Hobbit",
     "gender": "Female",
-    "realm": "Shire",
+    "realm": "The Shire",
     "obscurity": 7,
     "referenceUrl": "https://tolkiengateway.net/wiki/Elanor_Gardner"
   },
@@ -275,7 +275,7 @@
     "name": "Mauhúr",
     "race": "Orc",
     "gender": "Male",
-    "realm": "Mordor",
+    "realm": "Isengard",
     "obscurity": 8,
     "referenceUrl": "https://tolkiengateway.net/wiki/Mauh%C3%BAr"
   },
@@ -297,79 +297,79 @@
   },
   {
     "name": "Radagast",
-    "race": "Maiar",
+    "race": "Maia",
     "gender": "Male",
-    "realm": "Valinor",
+    "realm": "Rhosgobel",
     "obscurity": 5,
     "referenceUrl": "https://tolkiengateway.net/wiki/Radagast"
   },
   {
     "name": "Alatar",
-    "race": "Maiar",
+    "race": "Maia",
     "gender": "Male",
-    "realm": "Valinor",
+    "realm": "Rhûn",
     "obscurity": 8,
     "referenceUrl": "https://tolkiengateway.net/wiki/Alatar"
   },
   {
     "name": "Pallando",
-    "race": "Maiar",
+    "race": "Maia",
     "gender": "Male",
-    "realm": "Valinor",
+    "realm": "Rhûn",
     "obscurity": 8,
     "referenceUrl": "https://tolkiengateway.net/wiki/Pallando"
   },
   {
     "name": "Melian",
-    "race": "Maiar",
+    "race": "Maia",
     "gender": "Female",
-    "realm": "Valinor",
+    "realm": "Doriath",
     "obscurity": 5,
     "referenceUrl": "https://tolkiengateway.net/wiki/Melian"
   },
   {
     "name": "Uinen",
-    "race": "Maiar",
+    "race": "Maia",
     "gender": "Female",
-    "realm": "Valinor",
+    "realm": "Belegaer",
     "obscurity": 7,
     "referenceUrl": "https://tolkiengateway.net/wiki/Uinen"
   },
   {
     "name": "Ossë",
-    "race": "Maiar",
+    "race": "Maia",
     "gender": "Male",
-    "realm": "Valinor",
+    "realm": "Belegaer",
     "obscurity": 7,
     "referenceUrl": "https://tolkiengateway.net/wiki/Oss%C3%AB"
   },
   {
     "name": "Arien",
-    "race": "Maiar",
+    "race": "Maia",
     "gender": "Female",
-    "realm": "Valinor",
+    "realm": "Ilmen",
     "obscurity": 7,
     "referenceUrl": "https://tolkiengateway.net/wiki/Arien"
   },
   {
     "name": "Tilion",
-    "race": "Maiar",
+    "race": "Maia",
     "gender": "Male",
-    "realm": "Valinor",
+    "realm": "Ilmen",
     "obscurity": 7,
     "referenceUrl": "https://tolkiengateway.net/wiki/Tilion"
   },
   {
     "name": "Ulmo",
-    "race": "Ainur",
+    "race": "Vala",
     "gender": "Male",
-    "realm": "Valinor",
+    "realm": "Ekkaia",
     "obscurity": 5,
     "referenceUrl": "https://tolkiengateway.net/wiki/Ulmo"
   },
   {
     "name": "Varda",
-    "race": "Ainur",
+    "race": "Vala",
     "gender": "Female",
     "realm": "Valinor",
     "obscurity": 5,
@@ -377,7 +377,7 @@
   },
   {
     "name": "Yavanna",
-    "race": "Ainur",
+    "race": "Vala",
     "gender": "Female",
     "realm": "Valinor",
     "obscurity": 5,
@@ -385,7 +385,7 @@
   },
   {
     "name": "Nienna",
-    "race": "Ainur",
+    "race": "Vala",
     "gender": "Female",
     "realm": "Valinor",
     "obscurity": 6,
@@ -393,7 +393,7 @@
   },
   {
     "name": "Tulkas",
-    "race": "Ainur",
+    "race": "Vala",
     "gender": "Male",
     "realm": "Valinor",
     "obscurity": 6,
@@ -401,7 +401,7 @@
   },
   {
     "name": "Vána",
-    "race": "Ainur",
+    "race": "Vala",
     "gender": "Female",
     "realm": "Valinor",
     "obscurity": 8,
@@ -409,10 +409,794 @@
   },
   {
     "name": "Nessa",
-    "race": "Ainur",
+    "race": "Vala",
     "gender": "Female",
     "realm": "Valinor",
     "obscurity": 8,
     "referenceUrl": "https://tolkiengateway.net/wiki/Nessa"
+  },
+  {
+    "name": "Manwë",
+    "race": "Vala",
+    "gender": "Male",
+    "realm": "Valinor",
+    "obscurity": 4,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Manw%C3%AB"
+  },
+  {
+    "name": "Aulë",
+    "race": "Vala",
+    "gender": "Male",
+    "realm": "Valinor",
+    "obscurity": 4,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Aul%C3%AB"
+  },
+  {
+    "name": "Oromë",
+    "race": "Vala",
+    "gender": "Male",
+    "realm": "Valinor",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Orom%C3%AB"
+  },
+  {
+    "name": "Námo",
+    "race": "Vala",
+    "gender": "Male",
+    "realm": "Valinor",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/N%C3%A1mo"
+  },
+  {
+    "name": "Irmo",
+    "race": "Vala",
+    "gender": "Male",
+    "realm": "Valinor",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Irmo"
+  },
+  {
+    "name": "Estë",
+    "race": "Vala",
+    "gender": "Female",
+    "realm": "Valinor",
+    "obscurity": 7,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Est%C3%AB"
+  },
+  {
+    "name": "Vairë",
+    "race": "Vala",
+    "gender": "Female",
+    "realm": "Valinor",
+    "obscurity": 7,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Vair%C3%AB"
+  },
+  {
+    "name": "Eönwë",
+    "race": "Maia",
+    "gender": "Male",
+    "realm": "Valinor",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/E%C3%B6nw%C3%AB"
+  },
+  {
+    "name": "Ilmarë",
+    "race": "Maia",
+    "gender": "Female",
+    "realm": "Valinor",
+    "obscurity": 8,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Ilmar%C3%AB"
+  },
+  {
+    "name": "Salmar",
+    "race": "Maia",
+    "gender": "Male",
+    "realm": "Valinor",
+    "obscurity": 8,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Salmar"
+  },
+  {
+    "name": "Beleg Cúthalion",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Doriath",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Beleg"
+  },
+  {
+    "name": "Mablung of Doriath",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Doriath",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Mablung"
+  },
+  {
+    "name": "Daeron",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Doriath",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Daeron"
+  },
+  {
+    "name": "Nellas",
+    "race": "Elf",
+    "gender": "Female",
+    "realm": "Doriath",
+    "obscurity": 8,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Nellas"
+  },
+  {
+    "name": "Ecthelion of the Fountain",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Gondolin",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Ecthelion_of_the_Fountain"
+  },
+  {
+    "name": "Glorfindel",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Gondolin",
+    "obscurity": 4,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Glorfindel"
+  },
+  {
+    "name": "Egalmoth",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Gondolin",
+    "obscurity": 7,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Egalmoth_(Elf)"
+  },
+  {
+    "name": "Rog",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Gondolin",
+    "obscurity": 8,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Rog"
+  },
+  {
+    "name": "Penlod",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Gondolin",
+    "obscurity": 9,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Penlod"
+  },
+  {
+    "name": "Galdor of the Tree",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Gondolin",
+    "obscurity": 8,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Galdor_of_the_Tree"
+  },
+  {
+    "name": "Duilin",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Gondolin",
+    "obscurity": 8,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Duilin"
+  },
+  {
+    "name": "Finduilas of Nargothrond",
+    "race": "Elf",
+    "gender": "Female",
+    "realm": "Nargothrond",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Finduilas"
+  },
+  {
+    "name": "Gwindor",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Nargothrond",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Gwindor"
+  },
+  {
+    "name": "Aredhel",
+    "race": "Elf",
+    "gender": "Female",
+    "realm": "Gondolin",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Aredhel"
+  },
+  {
+    "name": "Eöl",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Nan Elmoth",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/E%C3%B6l"
+  },
+  {
+    "name": "Denethor of the Nandor",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Ossiriand",
+    "obscurity": 7,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Denethor_(King_of_the_Nandor)"
+  },
+  {
+    "name": "Celebrimbor",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Eregion",
+    "obscurity": 4,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Celebrimbor"
+  },
+  {
+    "name": "Oropher",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Woodland Realm",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Oropher"
+  },
+  {
+    "name": "Thranduil",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Woodland Realm",
+    "obscurity": 4,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Thranduil"
+  },
+  {
+    "name": "Galion",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Woodland Realm",
+    "obscurity": 7,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Galion"
+  },
+  {
+    "name": "Haldir of Lórien",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Lothlórien",
+    "obscurity": 4,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Haldir_(Lorien)"
+  },
+  {
+    "name": "Gildor Inglorion",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Rivendell",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Gildor_Inglorion"
+  },
+  {
+    "name": "Elladan",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Rivendell",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Elladan"
+  },
+  {
+    "name": "Elrohir",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Rivendell",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Elrohir"
+  },
+  {
+    "name": "Amroth",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Lothlórien",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Amroth"
+  },
+  {
+    "name": "Círdan",
+    "race": "Elf",
+    "gender": "Male",
+    "realm": "Grey Havens",
+    "obscurity": 4,
+    "referenceUrl": "https://tolkiengateway.net/wiki/C%C3%ADrdan"
+  },
+  {
+    "name": "Haleth",
+    "race": "Human",
+    "gender": "Female",
+    "realm": "Brethil",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Haleth"
+  },
+  {
+    "name": "Húrin",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Dor-lómin",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/H%C3%BArin"
+  },
+  {
+    "name": "Morwen Eledhwen",
+    "race": "Human",
+    "gender": "Female",
+    "realm": "Dor-lómin",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Morwen"
+  },
+  {
+    "name": "Niënor",
+    "race": "Human",
+    "gender": "Female",
+    "realm": "Brethil",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Ni%C3%ABnor"
+  },
+  {
+    "name": "Huor",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Dor-lómin",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Huor"
+  },
+  {
+    "name": "Rían",
+    "race": "Human",
+    "gender": "Female",
+    "realm": "Dor-lómin",
+    "obscurity": 7,
+    "referenceUrl": "https://tolkiengateway.net/wiki/R%C3%ADan"
+  },
+  {
+    "name": "Barahir",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Dorthonion",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Barahir"
+  },
+  {
+    "name": "Emeldir",
+    "race": "Human",
+    "gender": "Female",
+    "realm": "Dorthonion",
+    "obscurity": 7,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Emeldir"
+  },
+  {
+    "name": "Andreth",
+    "race": "Human",
+    "gender": "Female",
+    "realm": "Dorthonion",
+    "obscurity": 7,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Andreth"
+  },
+  {
+    "name": "Brandir",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Brethil",
+    "obscurity": 7,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Brandir"
+  },
+  {
+    "name": "Bór",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "East Beleriand",
+    "obscurity": 8,
+    "referenceUrl": "https://tolkiengateway.net/wiki/B%C3%B3r"
+  },
+  {
+    "name": "Dorlas",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Brethil",
+    "obscurity": 8,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Dorlas"
+  },
+  {
+    "name": "Tar-Aldarion",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Númenor",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Tar-Aldarion"
+  },
+  {
+    "name": "Erendis",
+    "race": "Human",
+    "gender": "Female",
+    "realm": "Númenor",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Erendis"
+  },
+  {
+    "name": "Tar-Ancalimë",
+    "race": "Human",
+    "gender": "Female",
+    "realm": "Númenor",
+    "obscurity": 7,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Tar-Ancalim%C3%AB"
+  },
+  {
+    "name": "Tar-Míriel",
+    "race": "Human",
+    "gender": "Female",
+    "realm": "Númenor",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Tar-M%C3%ADriel"
+  },
+  {
+    "name": "Amandil",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Númenor",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Amandil"
+  },
+  {
+    "name": "Vëantur",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Númenor",
+    "obscurity": 8,
+    "referenceUrl": "https://tolkiengateway.net/wiki/V%C3%ABantur"
+  },
+  {
+    "name": "Silmariën",
+    "race": "Human",
+    "gender": "Female",
+    "realm": "Númenor",
+    "obscurity": 7,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Silmari%C3%ABn"
+  },
+  {
+    "name": "Anárion",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Gondor",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/An%C3%A1rion"
+  },
+  {
+    "name": "Tar-Telperiën",
+    "race": "Human",
+    "gender": "Female",
+    "realm": "Númenor",
+    "obscurity": 8,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Tar-Telperi%C3%ABn"
+  },
+  {
+    "name": "Ciryatur",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Númenor",
+    "obscurity": 8,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Ciryatur"
+  },
+  {
+    "name": "Halbarad",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Arnor",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Halbarad"
+  },
+  {
+    "name": "Malbeth the Seer",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Arnor",
+    "obscurity": 7,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Malbeth_the_Seer"
+  },
+  {
+    "name": "Gilraen",
+    "race": "Human",
+    "gender": "Female",
+    "realm": "Arnor",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Gilraen"
+  },
+  {
+    "name": "Arvedui",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Arnor",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Arvedui"
+  },
+  {
+    "name": "Fíriel",
+    "race": "Human",
+    "gender": "Female",
+    "realm": "Gondor",
+    "obscurity": 7,
+    "referenceUrl": "https://tolkiengateway.net/wiki/F%C3%ADriel"
+  },
+  {
+    "name": "Forlong",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Gondor",
+    "obscurity": 7,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Forlong"
+  },
+  {
+    "name": "Hirgon",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Gondor",
+    "obscurity": 8,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Hirgon"
+  },
+  {
+    "name": "Damrod",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Gondor",
+    "obscurity": 7,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Damrod"
+  },
+  {
+    "name": "Mablung of Ithilien",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Gondor",
+    "obscurity": 7,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Mablung_(Ranger_of_Ithilien)"
+  },
+  {
+    "name": "Erkenbrand",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Rohan",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Erkenbrand"
+  },
+  {
+    "name": "Elfhelm",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Rohan",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Elfhelm"
+  },
+  {
+    "name": "Grimbold",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Rohan",
+    "obscurity": 7,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Grimbold"
+  },
+  {
+    "name": "Barliman Butterbur",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Bree-land",
+    "obscurity": 4,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Barliman_Butterbur"
+  },
+  {
+    "name": "Brand",
+    "race": "Human",
+    "gender": "Male",
+    "realm": "Dale",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Brand"
+  },
+  {
+    "name": "Azaghâl",
+    "race": "Dwarf",
+    "gender": "Male",
+    "realm": "Belegost",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Azagh%C3%A2l"
+  },
+  {
+    "name": "Gamil Zirak",
+    "race": "Dwarf",
+    "gender": "Male",
+    "realm": "Nogrod",
+    "obscurity": 8,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Gamil_Zirak"
+  },
+  {
+    "name": "Durin I",
+    "race": "Dwarf",
+    "gender": "Male",
+    "realm": "Khazad-dûm",
+    "obscurity": 4,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Durin_I"
+  },
+  {
+    "name": "Thrór",
+    "race": "Dwarf",
+    "gender": "Male",
+    "realm": "Erebor",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Thr%C3%B3r"
+  },
+  {
+    "name": "Thráin II",
+    "race": "Dwarf",
+    "gender": "Male",
+    "realm": "Erebor",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Thr%C3%A1in_II"
+  },
+  {
+    "name": "Dáin II Ironfoot",
+    "race": "Dwarf",
+    "gender": "Male",
+    "realm": "Iron Hills",
+    "obscurity": 4,
+    "referenceUrl": "https://tolkiengateway.net/wiki/D%C3%A1in_II_Ironfoot"
+  },
+  {
+    "name": "Gróin",
+    "race": "Dwarf",
+    "gender": "Male",
+    "realm": "Erebor",
+    "obscurity": 8,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Gr%C3%B3in"
+  },
+  {
+    "name": "Óin",
+    "race": "Dwarf",
+    "gender": "Male",
+    "realm": "Erebor",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/%C3%93in"
+  },
+  {
+    "name": "Ori",
+    "race": "Dwarf",
+    "gender": "Male",
+    "realm": "Erebor",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Ori"
+  },
+  {
+    "name": "Dwalin",
+    "race": "Dwarf",
+    "gender": "Male",
+    "realm": "Erebor",
+    "obscurity": 4,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Dwalin"
+  },
+  {
+    "name": "Bombur",
+    "race": "Dwarf",
+    "gender": "Male",
+    "realm": "Erebor",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Bombur"
+  },
+  {
+    "name": "Flói",
+    "race": "Dwarf",
+    "gender": "Male",
+    "realm": "Khazad-dûm",
+    "obscurity": 8,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Fl%C3%B3i"
+  },
+  {
+    "name": "Bandobras Took",
+    "race": "Hobbit",
+    "gender": "Male",
+    "realm": "The Shire",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Bandobras_Took"
+  },
+  {
+    "name": "Gerontius Took",
+    "race": "Hobbit",
+    "gender": "Male",
+    "realm": "The Shire",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Gerontius_Took"
+  },
+  {
+    "name": "Otho Sackville-Baggins",
+    "race": "Hobbit",
+    "gender": "Male",
+    "realm": "The Shire",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Otho_Sackville-Baggins"
+  },
+  {
+    "name": "Lotho Sackville-Baggins",
+    "race": "Hobbit",
+    "gender": "Male",
+    "realm": "The Shire",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Lotho_Sackville-Baggins"
+  },
+  {
+    "name": "Hamfast Gamgee",
+    "race": "Hobbit",
+    "gender": "Male",
+    "realm": "The Shire",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Hamfast_Gamgee"
+  },
+  {
+    "name": "Rosie Cotton",
+    "race": "Hobbit",
+    "gender": "Female",
+    "realm": "The Shire",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Rose_Cotton"
+  },
+  {
+    "name": "Primula Brandybuck",
+    "race": "Hobbit",
+    "gender": "Female",
+    "realm": "The Shire",
+    "obscurity": 7,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Primula_Brandybuck"
+  },
+  {
+    "name": "Déagol",
+    "race": "Hobbit",
+    "gender": "Male",
+    "realm": "Gladden Fields",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/D%C3%A9agol"
+  },
+  {
+    "name": "Uglúk",
+    "race": "Orc",
+    "gender": "Male",
+    "realm": "Isengard",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Ugl%C3%BAk"
+  },
+  {
+    "name": "Snaga",
+    "race": "Orc",
+    "gender": "Male",
+    "realm": "Mordor",
+    "obscurity": 7,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Snaga_(Cirith_Ungol)"
+  },
+  {
+    "name": "Golfimbul",
+    "race": "Orc",
+    "gender": "Male",
+    "realm": "Misty Mountains",
+    "obscurity": 6,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Golfimbul"
+  },
+  {
+    "name": "The Great Goblin",
+    "race": "Orc",
+    "gender": "Male",
+    "realm": "Misty Mountains",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Great_Goblin"
+  },
+  {
+    "name": "Bolg",
+    "race": "Orc",
+    "gender": "Male",
+    "realm": "Misty Mountains",
+    "obscurity": 5,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Bolg"
+  },
+  {
+    "name": "Gorgol",
+    "race": "Orc",
+    "gender": "Male",
+    "realm": "Angband",
+    "obscurity": 8,
+    "referenceUrl": "https://tolkiengateway.net/wiki/Gorgol"
   }
 ]
