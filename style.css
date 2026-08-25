@@ -1,0 +1,154 @@
+:root {
+    --fantasy-bg-light: #222931;
+    --fantasy-bg-dark: #0f1216;
+    --fantasy-accent: #d4af37;
+    --fantasy-accent-hover: #fae19b;
+    --fantasy-text: #eaeaea;
+    --fantasy-text-muted: #9ba1a8;
+    --fantasy-card-bg: rgba(25, 30, 36, 0.85);
+    --fantasy-border: rgba(212, 175, 55, 0.2);
+}
+
+body.fantasy-bg {
+    background: radial-gradient(circle at top, var(--fantasy-bg-light), var(--fantasy-bg-dark));
+    color: var(--fantasy-text);
+    font-family: 'Lora', serif;
+    min-height: 100vh;
+}
+
+.font-cinzel {
+    font-family: 'Cinzel', serif;
+}
+
+.fantasy-title {
+    font-family: 'Cinzel', serif;
+    color: var(--fantasy-accent);
+    text-shadow: 0 4px 15px rgba(0, 0, 0, 0.6);
+}
+
+.fantasy-subtitle {
+    color: var(--fantasy-text-muted);
+    font-style: italic;
+}
+
+.fantasy-label {
+    font-family: 'Cinzel', serif;
+    letter-spacing: 1.5px;
+    font-size: 0.85rem;
+    color: var(--fantasy-accent);
+    text-transform: uppercase;
+}
+
+.text-accent {
+    color: var(--fantasy-accent);
+}
+
+.fantasy-card, .custom-modal, .result-card {
+    background-color: var(--fantasy-card-bg);
+    border: 1px solid var(--fantasy-border);
+    border-radius: 12px;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.5);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+}
+
+.custom-modal .modal-content {
+    background-color: transparent;
+    border: none;
+    color: var(--fantasy-text);
+}
+
+.fantasy-input, .fantasy-select {
+    background-color: rgba(15, 18, 22, 0.7);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: var(--fantasy-text);
+    padding: 0.75rem 1rem;
+    transition: all 0.3s ease;
+}
+
+.fantasy-input:focus, .fantasy-select:focus {
+    background-color: rgba(15, 18, 22, 0.95);
+    border-color: var(--fantasy-accent);
+    box-shadow: 0 0 0 0.25rem rgba(212, 175, 55, 0.15);
+    color: var(--fantasy-text);
+}
+
+.fantasy-select option {
+    background-color: var(--fantasy-bg-dark);
+    color: var(--fantasy-text);
+}
+
+.btn-fantasy {
+    background-color: var(--fantasy-accent);
+    color: #1a1505;
+    font-family: 'Cinzel', serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+    border: none;
+    padding: 0.75rem 2rem;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.btn-fantasy:hover, .btn-fantasy:focus {
+    background-color: var(--fantasy-accent-hover);
+    color: #000;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(212, 175, 55, 0.3);
+}
+
+.btn-fantasy:disabled {
+    background-color: #6a5d38;
+    color: #b3b3b3;
+    transform: none;
+    box-shadow: none;
+}
+
+.btn-outline-fantasy {
+    color: var(--fantasy-accent);
+    border: 1px solid var(--fantasy-accent);
+    font-family: 'Cinzel', serif;
+    letter-spacing: 1px;
+    background: transparent;
+    transition: all 0.3s ease;
+}
+
+.btn-outline-fantasy:hover {
+    background-color: var(--fantasy-accent);
+    color: #111;
+}
+
+.accent-link {
+    color: var(--fantasy-accent);
+    text-decoration: none;
+    border-bottom: 1px dashed var(--fantasy-accent);
+    transition: all 0.2s ease;
+}
+
+.accent-link:hover {
+    color: var(--fantasy-accent-hover);
+    border-bottom-style: solid;
+}
+
+.custom-alert {
+    background-color: rgba(60, 20, 20, 0.85);
+    border: 1px solid #7c2020;
+    color: #ffcccc;
+}
+
+.tracking-wide {
+    letter-spacing: 0.2em;
+}
+
+.result-card {
+    opacity: 0;
+    transform: translateY(20px);
+}
+
+.result-card.show {
+    animation: fadeIn 0.8s ease-out forwards;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
